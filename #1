@@ -20,6 +20,7 @@ cout<<"ENTER NUMBER TO CHECK IT IS PRIME OR NOT ";
        else
          {
           cout<<" NOT A PRIME NUMBER \n";
+          cout<<"asd";
          }
        //getch();
        }
